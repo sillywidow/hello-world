@@ -1,4 +1,5 @@
 # hello-world
 just my first repository
 
-sillywidow here I'm new to coding and I like chocolate and dank memes
+Hello Sugar Labs my name is Tomi and i took on one of your tasks.
+I hope I get it right on my first try and help other people.
